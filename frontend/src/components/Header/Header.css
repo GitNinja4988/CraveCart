@@ -1,0 +1,38 @@
+.header {
+    background-color: rgb(28, 28, 28);
+    padding: 60px 20px;
+    text-align: center;
+    color: rgb(207 255 24)
+}
+  
+.header-contents {
+    max-width: 600px;
+    margin: 0 auto;
+}
+  
+.header h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+  
+.header h2 .header-word {
+    color: rgb(207, 255, 24);
+    display: inline-block;
+    font-size: 3rem;
+    transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity */
+}
+
+  
+.header h2 .fade-out {
+    opacity: 0; /* Fade out */
+}
+  
+.header h2 .fade-in {
+    opacity: 1; /* Fade in */
+}
+
+.header p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #d3d3d3;
+}
