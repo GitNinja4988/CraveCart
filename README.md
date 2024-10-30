@@ -1,4 +1,5 @@
-CraveCart: Your Ultimate Food Delivery Platform
+**CraveCart: Your Ultimate Food Delivery Platform**
+
 Welcome to CraveCart, a groundbreaking food delivery website currently in development! Our mission is to revolutionize the way you order food by providing a user-friendly platform that caters to all your culinary cravings, including a variety of healthy options. With CraveCart, you can look forward to exploring a wide range of delicious meals tailored to your dietary preferences.
 ![image](https://github.com/user-attachments/assets/67d48afb-6997-4b85-bf70-9fc3843c6549)
 
