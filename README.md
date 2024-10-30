@@ -1,18 +1,25 @@
 **CraveCart: Your Ultimate Food Delivery Platform**
 
 Welcome to CraveCart, a groundbreaking food delivery website currently in development! Our mission is to revolutionize the way you order food by providing a user-friendly platform that caters to all your culinary cravings, including a variety of healthy options. With CraveCart, you can look forward to exploring a wide range of delicious meals tailored to your dietary preferences.
+
+
 ![image](https://github.com/user-attachments/assets/67d48afb-6997-4b85-bf70-9fc3843c6549)
 
 Features
 🌱 Vegan Options
 Diverse Selection: CraveCart will feature an extensive menu of vegan dishes crafted from fresh, high-quality ingredients. From refreshing salads to hearty main courses, we aim to satisfy every palate while promoting healthy eating.
 Nutritional Benefits: Our plant-based offerings will be designed to deliver both nutrition and flavor, ensuring that you enjoy every bite.
+
+
 ![image](https://github.com/user-attachments/assets/b36c1ac9-c8a2-4563-933e-b8db44b921e7)
 
 
 🍽️ Mess Menu
 Comfort Food: For those who love traditional home-cooked meals, our Mess menu will provide generous portions of comforting dishes that evoke a sense of nostalgia and warmth.
+
+
 ![image](https://github.com/user-attachments/assets/878b1179-29f6-4792-9775-4802cb38ed49)
+
 
 Shareable Meals: Perfect for gatherings, our Mess options will allow you to share hearty meals with friends and family.
 💻 User-Friendly Website
